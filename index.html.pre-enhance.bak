@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#0A0A0C" />
+  <meta name="description" content="MM Motors Lucknow — premium car repair, modification, detailing and servicing. Repair • Modify • Upgrade." />
+  <meta property="og:title" content="MM Motors — Built for Your Drive" />
+  <meta property="og:description" content="Repair • Modify • Upgrade. Premium automotive service studio in Lucknow." />
+  <meta property="og:type" content="website" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Michroma&family=Orbitron:wght@500;600;700;800&display=swap" rel="stylesheet" />
+  <title>MM Motors — Built for Your Drive.</title>
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"AutoRepair",
+    "name":"MM Motors",
+    "description":"Car repair, servicing, detailing and modification studio in Lucknow, India.",
+    "address":{"@type":"PostalAddress","addressLocality":"Lucknow","addressRegion":"Uttar Pradesh","addressCountry":"IN"},
+    "areaServed":"Lucknow",
+    "url":"https://example.com"
+  }
+  </script>
+</head>
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.jsx"></script>
+</body>
+</html>
